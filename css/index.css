@@ -224,10 +224,11 @@ a {
 
 .card {
     width: 45%;
-    margin: 20px 0;
+    margin: 20px 10px;
     border-bottom: 1px dashed black;
     display: flex;
     flex-wrap: wrap;
+    justify-content: space-evenly;
     align-items: center;
 }
 
@@ -246,13 +247,14 @@ a {
     border: 1px solid black;
     border-radius: 5px;
     display: flex;
+    justify-content: center;
 }
 
 .about-cta {
     margin: 25px 0;
 }
 
-/* Regular footer info again */
+/* Regular footer info on all pages */
 
 footer {
     width: 100%;
