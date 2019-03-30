@@ -79,12 +79,13 @@ header {
     flex-wrap: wrap;
     justify-content: space-evenly;
     align-content: space-between;
-    border: 2px solid deeppink;
 }
 
 .logo {
+    width: 200px;
+    height: 60px;
     display: flex;
-    border: 2px solid goldenrod;
+    align-items: flex-start;
 }
 
 .nav {
@@ -108,9 +109,8 @@ a {
 .header-img {
     height: 150px;
     width: 100%;
-   display: flex;
-   margin-bottom: 20px;
-   border: 2px solid tomato;
+    display: flex;
+    margin-bottom: 20px;
 }
 
 .top-content {
