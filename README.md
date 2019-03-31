@@ -38,7 +38,7 @@ Semantic HTML is what gives your web page meaning. The HTML tags would include h
 
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
 
-````display: block``` takes up the whole area, the way a paragraph does. ```display: inline``` only takes up the space within 1 line. 
+```display: block``` takes up the whole area, the way a paragraph does. ```display: inline``` only takes up the space within 1 line. 
 
 3. What are the 4 areas of the box model?
 
@@ -56,6 +56,7 @@ Align always falls on the cross axis, whereas Justify always deals with the main
 Git keeps history of all saved work. If someone's code breaks the program they're working on, they have a way to revert to the previous version and fix the bugs in the code. 
 
 Creating branches in git also helps alleviate merge conflicts if more than 1 person is working on the same code. 
+
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
