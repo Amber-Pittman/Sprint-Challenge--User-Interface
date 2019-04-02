@@ -260,7 +260,16 @@ a {
     font-size: 15px;
 }
 
-/* Products Page 
+/* Products Page */
+.products-top-content {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+    border-bottom: 1px dashed black;
+}
+.products-top-content h2 {
+    text-align: left;
+}
 
 .products-card-panel {
     width: 100%;
@@ -270,7 +279,7 @@ a {
 }
 
 .products-card {
-    width: 100%;
+    width: 375px;
     margin: 10px 10px 15px;
     border-bottom: 1px dashed black;
     display: flex;
@@ -278,11 +287,12 @@ a {
 }
 
 .products-card img {
-    width: 98%;
-    height: 80%;
+    width: 375px;
+    height: 375px;
+    margin: 10px 0 20px;
     display: flex;
 }
-*/
+
 
 /* Regular footer info on all pages */
 
