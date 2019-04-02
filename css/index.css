@@ -260,6 +260,30 @@ a {
     font-size: 15px;
 }
 
+/* Products Page 
+
+.products-card-panel {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.products-card {
+    width: 100%;
+    margin: 10px 10px 15px;
+    border-bottom: 1px dashed black;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.products-card img {
+    width: 98%;
+    height: 80%;
+    display: flex;
+}
+*/
+
 /* Regular footer info on all pages */
 
 footer {
